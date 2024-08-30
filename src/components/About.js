@@ -54,7 +54,7 @@ import ReactMarkdown from "react-markdown";
 // const AboutMe = () => {
 //   const aboutMe = aboutMeJson.about_me;
 
-//   // Split skills into two halves
+
 //   const firstHalf = aboutMe.skills.slice(0, aboutMe.skills.length / 2);
 //   const secondHalf = aboutMe.skills.slice(aboutMe.skills.length / 2);
 

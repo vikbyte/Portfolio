@@ -1,8 +1,10 @@
+
+
 {
   "name": "VikP",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vikbyte.github.io/Portfolio",
+  "homepage": "https://vikbyte.github.io/",
   "dependencies": {
     "@emotion/react": "^11.11.4",
     "@fortawesome/fontawesome-svg-core": "^6.5.2",
@@ -47,9 +49,13 @@
       "last 1 safari version"
     ]
   },
+  "engines": {
+    "node": ">=14.0.0 <15.0.0"
+  },
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "gh-pages": "^6.1.1",
     "web-vitals": "^4.2.1"
   }
 }
+

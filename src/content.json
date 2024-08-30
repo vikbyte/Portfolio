@@ -5,7 +5,7 @@
     "navbar_social_links": {
       "github": "https://github.com/",
       "resume": "/resume",
-      "linkedin": "https://www.linkedin.com/in/vikram-patil-5a5ba415b/",
+      "linkedin": "https://www.linkedin.com/in/vp1712",
       "email": "vikramspatil1@gmail.com"
     }
   },
@@ -137,12 +137,12 @@
             "data_tooltip": "Information Page"
           },
           {
-            "href": "https://github.com/Vikram/Project1",
+            "href": "https://www.hycord.net",
             "icon": "FaGithub",
             "data_tooltip": "Visit GitHub Repo"
           },
           {
-            "href": "https://github.com/archive/main.zip",
+            "href": "https://www.hycord.net",
             "icon": "FaDownload",
             "data_tooltip": "Download Project"
           }
@@ -165,7 +165,7 @@
         "end_date": "Present",
         "links": [
           {
-            "href": "https://github.com/Vikram/Reactfolio",
+            "href": "https://api.github.com/repos/vikbyte/portfolio1",
             "icon": "FaGithub",
             "data_tooltip": "Visit GitHub Repo"
           }
