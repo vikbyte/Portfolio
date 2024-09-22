@@ -21,9 +21,9 @@
       "enable_section": true
     },
     "main_header": "Hi, I'm Vikram!",
-    "main_subtitle": "I like to build stuff occasionally.",
+    "main_subtitle": "I enjoy building creative projects in my free time, exploring new ideas and technologies.",
     "intro_bio": [
-      "I’m a UMass Amherst grad with a a Bachelor of Science in Computer Science",
+      "I’m a UMass Amherst grad with a Bachelor of Science in Computer Science",
       "I have a passion for creating tech solutions and exploring new development challenges"
       
     ],
@@ -68,7 +68,7 @@
           "Developed data analysis tools, scripts and devised flight scenarios to verify SPY6 (AMDR and EASR) radar A-spec requirements.",
           "Analyze live flight test and simulation data for SPY-6 (AMDR and EASR) to verify that radar meets criteria for successful high stake tests",
           "Led VI meetings with stakeholders to finalize and secure alignment on critical requirements.",
-          "Collaborated closely with mentors to refine development skills and deepen understanding of radar system design principles."
+          "Collaborated closely with mentors to refine development skills and deepen understanding of system design principles."
         ]
       },
       {
@@ -89,83 +89,69 @@
       "enable_section": true,
       "title": "~/Projects",
       "navbar_name": "/Projects",
-      "description": "Some of my most recent or past favorite creations or work."
+      "description": "Some of my most recent projects I've enjoyed working on."
     },
     "project_items": [
       {
         "use_git_api": true,
-        "api_github_repo_link": "https://api.github.com/repos/vikbyte/portfolio1",
-        "project_name": "STMU Yelp",
-        "description": "Application.",
+        "api_github_repo_link": "https://github.com/CS320-Team-2",
+        "project_name": "Workforce Management System",
+        "description": "Web application for streamlining task handling, PTO management, and training assignments. Resulted in a 30% increase in task completion efficiency while providing comprehensive work cycle tracking",
         "resources_used": [
           "JavaScript",
-          "Python",
           "Flask",
           "React.js",
           "CSS",
           "MongoDB",
-          "HTML",
           "Rest API"
         ],
         "start_date": "Sept 2022",
-        "end_date": "May 2023",
+        "end_date": "December 2022",
         "links": [
           {
-            "href": "https://github.com/",
+            "href": "https://github.com/CS320-Team-2",
             "icon": "FaGithub",
             "data_tooltip": "Visit GitHub Repo"
-          },
-          {
-            "href": "https://github.com/Vikram",
-            "icon": "FaDownload",
-            "data_tooltip": "Download Project"
-          }
+          }        
         ]
       },
       {
         "use_git_api": true,
-        "api_github_repo_link": "https://api.github.com/repos/vikbyte/portfolio1",
-        "project_name": "Hycord Client",
-        "description": "Discord.py",
-        "resources_used": ["HTML", "Discord.py", "Hypixel API"],
-        "start_date": "Dec 2022",
-        "end_date": "Present",
-        "links": [
-          {
-            "href": "https://www.hycord.net",
-            "icon": "FiExternalLink",
-            "data_tooltip": "Information Page"
-          },
-          {
-            "href": "https://www.hycord.net",
-            "icon": "FaGithub",
-            "data_tooltip": "Visit GitHub Repo"
-          },
-          {
-            "href": "https://www.hycord.net",
-            "icon": "FaDownload",
-            "data_tooltip": "Download Project"
-          }
-        ]
-      },
-      {
-        "use_git_api": true,
-        "api_github_repo_link": "https://api.github.com/repos/vikbyte/portfolio1",
-        "project_name": "V2",
-        "description": "An e-portfolio website.",
+        "api_github_repo_link": "https://github.com/vikbyte/AlgoViz",
+        "project_name": "Algorithm Visualiser",
+        "description": "Algorithm Visualizer is an interactive website that allows users to visualize sorting algorithms and pathfinding algorithms to understand how these algorithms work. ",
         "resources_used": [
-          "React.js",
-          "NVM",
-          "HTML & CSS",
-          "JavaScript",
+          "Py",
+          "React",
           "HTML",
           "CSS"
         ],
-        "start_date": "Sept 2023",
-        "end_date": "Present",
+        "start_date": "Jan 2023",
+        "end_date": "March 2023",
         "links": [
           {
-            "href": "https://api.github.com/repos/vikbyte/portfolio1",
+            "href": "https://github.com/vikbyte/AlgoViz",
+            "icon": "FaGithub",
+            "data_tooltip": "Visit GitHub Repo"
+          }
+        ]
+      },
+      {
+        "use_git_api": true,
+        "api_github_repo_link": "https://api.github.com/repos/vikbyte/WordleBot",
+        "project_name": "Wordle Bot",
+        "description": "Developed an advanced bot for the popular game Wordle that enhances user gameplay by providing strategic suggestions and insights, enabling precise guesses with each turn.",
+        "resources_used": [
+          "Py",
+          "React",
+          "HTML",
+          "CSS"
+        ],
+        "start_date": "March 2023",
+        "end_date": "April 2023",
+        "links": [
+          {
+            "href": "https://github.com/vikbyte/WordleBot",
             "icon": "FaGithub",
             "data_tooltip": "Visit GitHub Repo"
           }
