@@ -29,12 +29,12 @@ const Linkbar = () => {
   const general = contentData.general;
 
   const socialLinks = [
-    {
-      icon: MdEmail,
-      href: general.navbar_social_links.email,
-      target: "_blank",
-      rel: "noreferrer",
-    },
+    // {
+    //   icon: MdEmail,
+    //   href: general.navbar_social_links.email,
+    //   target: "_blank",
+    //   rel: "noreferrer",
+    // },
     {
       icon: FaLinkedin,
       href: general.navbar_social_links.linkedin,

@@ -34,7 +34,7 @@ const Footer = () => {
           <div className="col-sm-12">
             <div className="copyright-box">
               <p className="copyright">
-                <a href="https://github.com/KevinTrinh1227">
+                <a href="https://github.com/vikbyte">
                   <strong>
                     {general.first_name} {general.last_name}
                   </strong>
